@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//coins/static/css/main.9ff23e91.css",
+    "main.js": "//coins/static/js/main.5cfd7c0b.js",
+    "index.html": "//coins/index.html",
+    "main.9ff23e91.css.map": "//coins/static/css/main.9ff23e91.css.map",
+    "main.5cfd7c0b.js.map": "//coins/static/js/main.5cfd7c0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ff23e91.css",
+    "static/js/main.5cfd7c0b.js"
+  ]
+}
