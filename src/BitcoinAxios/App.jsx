@@ -11,6 +11,7 @@ function App() {
   return (
  
     <div>
+      <h1>salam</h1>
         <Header inn={inn} setInn={setInn} fil={fil} setFil={setFil}/>
         <Body/>
     </div>
